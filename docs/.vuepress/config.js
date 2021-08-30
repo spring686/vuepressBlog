@@ -18,10 +18,11 @@ module.exports = {
     type: "blog",
     authorAvatar: "/img/xiaoxin.jpg",
     logo: "/img/hero.png",
+    subSidebar: 'auto',
     smoothScroll: true,
      search: false,
     searchMaxSuggestions: 10,
-    subSidebar: 'auto',
+    
     activeHeaderLinks: false,
     // 博客配置
     blogConfig: {
