@@ -13,11 +13,11 @@ isTimeLine: true
 
 1. 创建Springboot 项目工程
 
-   ![image-20210901161824194](/img/Spring Boot 整合 Spring security 整合 redis  整合  jwt\image-20210901161824194.png)
+   ![image-20210901161824194](https://github.com/spring686/vuepressBlog/tree/main/docs/view/JAVA/Spring%20Boot%20%E6%95%B4%E5%90%88%20Spring%20security%20%E6%95%B4%E5%90%88%20redis%20%20%E6%95%B4%E5%90%88%20%20jwt)
 
 2. 选择好需要的jar 包依赖
 
-   ![image-20210901161948904](/img/Spring Boot 整合 Spring security 整合 redis  整合  jwt\image-20210901161948904.png)
+   ![image-20210901161948904](https://github.com/spring686/vuepressBlog/blob/main/docs/view/JAVA/Spring%20Boot%20%E6%95%B4%E5%90%88%20Spring%20security%20%E6%95%B4%E5%90%88%20redis%20%20%E6%95%B4%E5%90%88%20%20jwt/image-20210901161948904.png)
 
    ```xml
    <dependency>
@@ -258,7 +258,7 @@ isTimeLine: true
 
    这里数据裤就一条数据(之说 spring security 不写那么多 数据库)
 
-   ![image-20210901163104538](/img/Spring Boot 整合 Spring security 整合 redis  整合  jwt\image-20210901163104538.png)
+   ![image-20210901163104538](https://github.com/spring686/vuepressBlog/blob/main/docs/view/JAVA/Spring%20Boot%20%E6%95%B4%E5%90%88%20Spring%20security%20%E6%95%B4%E5%90%88%20redis%20%20%E6%95%B4%E5%90%88%20%20jwt/image-20210901163104538.png)
 
 4. 配置配置类
 

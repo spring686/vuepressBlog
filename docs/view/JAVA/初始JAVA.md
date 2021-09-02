@@ -18,3 +18,4 @@ isComment: false
 ## 我叼你妈的
 ### 追加 trvis CI 自动化部署
 
+![image-20210902104222978](C:\Users\狐狸\AppData\Roaming\Typora\typora-user-images\image-20210902104222978.png)
